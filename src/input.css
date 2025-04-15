@@ -11,3 +11,9 @@
     font-family: "Manrope", sans-serif;
     font-optical-sizing: auto;
   }
+  p {
+    color: gray;
+  }
+  .freshly h4 ,h1{
+    font-weight:  bold;
+  }
