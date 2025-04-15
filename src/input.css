@@ -14,6 +14,18 @@
   p {
     color: gray;
   }
-  .freshly h4 ,h1{
+  .freshly h4 , .freshly h1{
     font-weight:  bold;
+  }
+  .freshly h1
+  {
+    margin-bottom: 2rem;
+  }
+  .freshly h4{
+    margin-top: 1.5rem;
+    font-size: 1.5rem;
+  }
+  .freshly p
+  {
+    font-size: 1.5rem;
   }
